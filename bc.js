@@ -34,7 +34,7 @@ function storeData(event) {
    
     alert("User has been registered successfully!");
 
-    window.location.href = './login.html';
+    window.location.href = './index.html';
 }
 
 
